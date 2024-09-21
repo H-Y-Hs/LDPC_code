@@ -34,7 +34,7 @@ main ()
 }
 ```
 
-#####Use **normal()** to output two independent normal random variables, $n_1$ and $n_2$
+#####Use **normal()** to output two independent normal random variables, $n_1$ and $n_2$  
 <img src="https://github.com/H-Y-Hs/LDPC_code/blob/main/normal.jpg?raw=true" alt="normal()" width="40%">
 
 
